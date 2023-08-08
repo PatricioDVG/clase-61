@@ -1,0 +1,23 @@
+body{
+    text-align: center;
+}
+h1{
+    font-size: 40px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: 300px;
+}
+#app{
+    background-color: aliceblue;
+}
+#game{
+    background-color: red;
+}
+#game img{
+    width: 250px;
+}
+.line{
+    height: 6px;
+    background-color: darkcyan;
+    width: 70px;
+    margin: 8px auto;
+}
